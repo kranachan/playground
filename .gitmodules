@@ -1,0 +1,3 @@
+[submodule "submodules/r3f-vrm-experiment"]
+	path = submodules/r3f-vrm-experiment
+	url = https://github.com/kranachan/r3f-vrm-experiment.git
